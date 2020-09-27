@@ -9,7 +9,7 @@ let photosArray = [];
 // Unsplash API
 const count = 30;
 const query = 'finland';
-const apiKey = 'G8vptqR1f6M4Zoi6rpVtidY9NibbyrnzH7dUiAIh7A4';
+const apiKey = <'add your API KEY here'>;
 const apiUrl = `https://api.unsplash.com/photos/random/?client_id=${apiKey}&query=${query}&count=${count}`;
 
 //Check if all images were loaded
