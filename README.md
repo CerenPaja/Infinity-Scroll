@@ -9,5 +9,3 @@ Built with HTML5, CSS3 and Javascript.
 
 ## Screenshot
 <img src="screenshot.png" width="700">
-
-
